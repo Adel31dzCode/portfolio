@@ -1,3 +1,4 @@
+  const nav = document.getElementById("navbar_helper");
 
 
 window.addEventListener('scroll', function () {
