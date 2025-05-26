@@ -1414,6 +1414,9 @@ to {
     height: 22px;
     width: 22px;
 }
+#sec_interface {
+    background-image: url(svg/grid_mobile.svg);
+}
 #sec_interface_second {
     padding-top: 0;
     flex-direction: column;
