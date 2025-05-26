@@ -266,6 +266,7 @@ to {transform: translateY(-20px)}
     text-shadow: 0px 0px 10px var(--primary_color_text);
 }
 .chart_content_interface {
+    text-align: center;
     font-size: 42px;
     color: #a5a5a5;
     font-family: var(--primary_font);
@@ -1400,6 +1401,9 @@ to {
 #sub_title_content_interface {
     font-size: 28px;
     margin-top: 10px;
+}
+.color_interface_helper_plus {
+    font-size: 42px;
 }
 #sub_title_content_interface img {
     height: 40px;
