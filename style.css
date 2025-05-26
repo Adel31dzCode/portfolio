@@ -604,6 +604,18 @@ to {transform: translateY(-20px)}
     font-family: var(--primary_font);
     font-size: 16px;
 }
+.splide__arrow {
+    background: #8453ff; /* تدرج أزرق */
+    border: none;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    color: white;
+    font-size: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    z-index: 10;
+}
 
 .flex_fourth_interface {
     display: flex;
