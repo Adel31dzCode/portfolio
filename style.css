@@ -1130,9 +1130,76 @@ to {transform: translateY(-20px)}
     height: 50px;
     padding: 15px;
 }
-
-
 }
+
+@media (max-width: 1224px) {
+
+.color_interface {
+    font-size: 18px;
+    text-align: center;
+}
+#title_third_interface {
+    font-size: 42px;
+}
+#title_third_interface .color_interface {
+    font-size: 42px;
+}
+#ul_nav_interface .link_nav_interface {
+    font-size: 18px;
+}
+#ul_auth_interface .auth_log:nth-child(1) {
+    font-size: 18px;
+}
+#ul_auth_interface .auth_log:nth-child(2) {
+    font-size: 18px;
+}
+#title_second_interface {
+    padding: 20px  0 20px 40px;
+}
+#content_second_interface {
+    font-size: 22px;
+}
+
+#para_sec_interface {
+    padding: 10px 0 50px 25px;
+}
+#content_fourth_interface {
+    font-size: 20px;
+}
+.stats-container-interface {
+    width: 95%;
+}
+
+
+.cammon_para_web_interface_one, .cammon_para_web_interface_two, .cammon_para_web_interface_three {
+    font-size: 62px;
+}
+.cammon_para_web_interface_one {
+    padding-left: 30px;
+}
+.cammon_para_web_interface_two {
+    text-align: initial;
+    padding-left: 150px;
+}
+.cammon_para_web_interface_three {
+    text-align: right;
+    margin-left: -17px;
+}
+.continer_details_contact_footer::after {
+    left: 5px;
+}
+.stat-item {
+    margin-right: 47px;
+}
+.splide__slide {
+    margin-right: 350px !important;
+}
+}
+
+
+
+
+
 
 @media (max-width: 420px) {
 * {
