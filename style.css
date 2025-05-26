@@ -1296,7 +1296,6 @@ to {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    cursor: pointer;
 }
 .part_burger_nav_one {
     display: block;
